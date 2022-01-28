@@ -1,12 +1,12 @@
 {
-  "token": "",
-  "prefix" : "+",
-  "owner" : ["","",""],
-  "clientid" : "",
-  "clientsecret" : "",
+  "token": "OTM2NjU3NDE1MTk2MjUwMTI0.YfQYMg.StoYH_OYPeYRRxgxB9ltSLcNIoQ",
+  "prefix" : "an/",
+  "owner" : ["671611379047858195"],
+  "clientid" : "936657415196250124",
+  "clientsecret" : "Ny-jq6pCfBgb-uOHcHlb8_5RTajn9ns6",
   "clientcallback" : "",
-  "mongoURL" : "",
-  "serverID": "",
+  "mongoURL" : "mongodb+srv://Snzy:neji@webupt.vhkov.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "serverID": "936655444603179108",
   "footer": "GLOBAL FOOTER",
   "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
 }
